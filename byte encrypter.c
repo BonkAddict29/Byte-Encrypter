@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <conio.h>  
-
+//WARNING!! This code is likely to be carcinogenic, inspect at your own risk. You have been warned.
 int main() {
     char input[1500];
     char bitPositions[100];
